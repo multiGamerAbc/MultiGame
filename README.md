@@ -1,6 +1,12 @@
 # MultiGame
 
 README For MultiGame System
+
+(This was a project for a Software Engineering course.  The focus was on documentation, requirements engineering,
+validation, verification, diagrams... that sort of thing.  It was not intended for us to focus too heavily on coding,
+or even on completing all the requirements.  We "elicited" our own requirements.  It is still a working application
+with a GUI, including a simple animated video game and a simple math quiz.  Please take a look.)
+
 To install and run the MultiGame system:
 1) Download and unzip the zip file I submitted for the project.
 2) Inside you'll find a folder titled "MultiGameSystem".  Open this folder.
