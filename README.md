@@ -2,12 +2,12 @@
 
 README For MultiGame System
 
-I have three videos included above: a demonstration of the application, an install and run guide, and a code walkthrough.  Please check out the 
+I have included three videos above: a demonstration of the application, an install and run guide, and a code walkthrough.  Please check out the ClassDiagram1, ClassDiagram2, SequenceDiagram1, SequenceDiagram2, and StateDiagram files as well.
 
 (This was a project for a Software Engineering course.  The focus was on documentation, requirements engineering,
 validation, verification, diagrams... that sort of thing.  It was not intended for us to focus too heavily on coding,
 or even on completing all the requirements, since we "elicited" our own requirements.  It is still a working application
-with a GUI, including a simple animated video game and a simple math quiz.  Please take a look.)
+with a GUI, including a simple animated video game and a simple math quiz.)
 
 To install and run the MultiGame system:
 1) Download and unzip the zip file I submitted for the project.
