@@ -2,7 +2,7 @@
 
 README For MultiGame System
 
-I have three videos included above: a demonstration of the application, an install and run guide, and a code walkthrough.
+I have three videos included above: a demonstration of the application, an install and run guide, and a code walkthrough.  Please check out the 
 
 (This was a project for a Software Engineering course.  The focus was on documentation, requirements engineering,
 validation, verification, diagrams... that sort of thing.  It was not intended for us to focus too heavily on coding,
